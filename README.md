@@ -18,8 +18,6 @@ portfolio/
 ├── index.html
 ├── style.css
 ├── image.png
-└── README.md
-
 ---
 
 ## 📸 Tampilan Setiap Section
